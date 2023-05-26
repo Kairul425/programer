@@ -1,5 +1,7 @@
 rencana belajar programer
 
 -bangun pagi
+    *bangun jam4
+    *sholat tahajud
 -makan teratur
 -olahraga teratur
